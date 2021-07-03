@@ -1,0 +1,7 @@
+name: "Menu Plugin"
+main: Main
+version: 1.0
+commands:
+    menu: {}
+
+    registermenu: {}
